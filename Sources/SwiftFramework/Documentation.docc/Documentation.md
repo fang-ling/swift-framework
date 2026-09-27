@@ -12,3 +12,9 @@ The SwiftFramework defines a base layer of functionality for writing Swift progr
   - Protocols, such as ``SwiftFramework/SwiftCollection`` and ``SwiftFramework/SwiftEquatable``, that describe common abstractions
   - Protocols, such as ``SwiftFramework/SwiftCustomDebugStringConvertible`` and ``SwiftFramework/SwiftCustomReflectable``, that you use to customize operations that are available to all types
   - Protocols, such as ``SwiftFramework/SwiftOptionSet``, that you use to provide implementations that would otherwise require boilerplate code
+
+## Topics
+
+### Values and Collections
+
+- <doc:Strings-and-Text>
