@@ -19,3 +19,7 @@ The SwiftFramework defines a base layer of functionality for writing Swift progr
 
 - <doc:Strings-and-Text>
 - <doc:Collections>
+
+### Tools for Your Types
+
+- <doc:Basic-Behaviors>
