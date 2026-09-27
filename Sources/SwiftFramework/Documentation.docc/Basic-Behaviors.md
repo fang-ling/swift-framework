@@ -7,3 +7,7 @@ Use your custom types in operations that depend on testing for equality or order
 ### Sets and Dictionaries
 
 - ``SwiftFramework/SwiftHashable``
+
+### Raw Representation
+
+- ``SwiftFramework/SwiftRawRepresentable``
