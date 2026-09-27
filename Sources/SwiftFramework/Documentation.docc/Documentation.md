@@ -18,3 +18,4 @@ The SwiftFramework defines a base layer of functionality for writing Swift progr
 ### Values and Collections
 
 - <doc:Strings-and-Text>
+- <doc:Collections>
