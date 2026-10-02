@@ -27,3 +27,4 @@ The SwiftFramework defines a base layer of functionality for writing Swift progr
 ### Programming Tasks
 
 - <doc:Concurrency>
+- <doc:Manual-Memory-Management>
