@@ -7,6 +7,7 @@ Store and organize data using arrays, dictionaries, sets, and other data structu
 ### Arrays and Dictionaries
 
 - ``SwiftFramework/SwiftArray``
+- ``SwiftFramework/SwiftDictionary``
 
 ### Sets
 
