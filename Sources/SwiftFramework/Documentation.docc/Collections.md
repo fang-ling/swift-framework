@@ -10,4 +10,5 @@ Store and organize data using arrays, dictionaries, sets, and other data structu
 
 ### Sets
 
+- ``SwiftFramework/SwiftSet``
 - ``SwiftFramework/SwiftOptionSet``
