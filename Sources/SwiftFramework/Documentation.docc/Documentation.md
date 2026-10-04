@@ -29,3 +29,4 @@ The SwiftFramework defines a base layer of functionality for writing Swift progr
 - <doc:Debugging-and-Reflection>
 - <doc:Concurrency>
 - <doc:Manual-Memory-Management>
+- <doc:Type-Casting-and-Existential-Types>
