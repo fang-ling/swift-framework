@@ -9,3 +9,4 @@ Allocate and manage memory manually.
 Use typed pointers and buffers to access memory as instances of a specific type.
 
 - ``SwiftFramework/SwiftUnsafeMutablePointer``
+- ``SwiftFramework/SwiftUnsafeMutableBufferPointer``
