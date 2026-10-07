@@ -17,6 +17,7 @@ The SwiftFramework defines a base layer of functionality for writing Swift progr
 
 ### Values and Collections
 
+- <doc:Numbers-and-Basic-Values>
 - <doc:Strings-and-Text>
 - <doc:Collections>
 
