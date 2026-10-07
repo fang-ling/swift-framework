@@ -4,9 +4,14 @@ Use your custom types in operations that depend on testing for equality or order
 
 ## Topics
 
+### Equality and Ordering
+
+- ``SwiftFramework/SwiftEquatable``
+
 ### Sets and Dictionaries
 
 - ``SwiftFramework/SwiftHashable``
+- ``SwiftFramework/SwiftHasher``
 
 ### Raw Representation
 

@@ -17,9 +17,17 @@ The SwiftFramework defines a base layer of functionality for writing Swift progr
 
 ### Values and Collections
 
+- <doc:Numbers-and-Basic-Values>
 - <doc:Strings-and-Text>
 - <doc:Collections>
 
 ### Tools for Your Types
 
 - <doc:Basic-Behaviors>
+
+### Programming Tasks
+
+- <doc:Debugging-and-Reflection>
+- <doc:Concurrency>
+- <doc:Manual-Memory-Management>
+- <doc:Type-Casting-and-Existential-Types>
