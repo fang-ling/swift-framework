@@ -10,4 +10,5 @@ Model data with numbers, Boolean values, and other fundamental types.
 
 ### Random Number Generators
 
+- ``SwiftFramework/SwiftSystemRandomNumberGenerator``
 - ``SwiftFramework/SwiftRandomNumberGenerator``
